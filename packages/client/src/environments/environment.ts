@@ -5,7 +5,7 @@
 
 export const environment = {
   production: false,
-  serverUrl: 'localhost:3000',
+  serverUrl: '18.203.208.214:3000',
   wsSchema: 'ws',
   movement: {
     runningSpeed: 1.0,
